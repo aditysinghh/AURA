@@ -1,7 +1,8 @@
 🔮 A.U.R.A – Advanced Unified Responsive Assistant
 A JARVIS-inspired modular AI assistant built with Python, real-time voice interaction, and a sleek GUI.
 
-A.U.R.A (Advanced Unified Responsive Assistant) is a personal AI assistant designed to mimic the functionality and interactivity of JARVIS from the Iron Man universe. Built using a modular Python architecture, A.U.R.A integrates speech recognition, voice output, a GUI interface, and Groq-powered chatbot capabilities to create a highly responsive and intelligent assistant.
+A.U.R.A (Advanced Unified Responsive Assistant) is a personal AI assistant designed to mimic the functionality and interactivity of JARVIS from the Iron Man universe.
+Built using a modular Python architecture, A.U.R.A integrates speech recognition, voice output, a GUI interface, and Groq-powered chatbot capabilities to create a highly responsive and intelligent assistant.
 
 🧠 Features
 🎤 Real-Time Voice Interaction
@@ -32,7 +33,6 @@ Threading & Multiprocessing (for real-time responsiveness)
 
 🚀 Setup Instructions
 
-git clone https://github.com/yourusername/aura-ai-assistant.git
 cd aura-ai-assistant
 pip install -r requirements.txt
 python main.py
