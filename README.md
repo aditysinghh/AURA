@@ -61,5 +61,3 @@ A.U.R.A/
 🧑‍💻 Author
 Aditya Singh
 B.Tech CSE Student
-
-Ask ChatGPT
