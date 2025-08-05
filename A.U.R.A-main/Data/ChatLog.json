@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready to assist you. What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "What are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm waiting for your question or prompt to provide a response."
+    }
+]
